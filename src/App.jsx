@@ -20,9 +20,8 @@ function App() {
       <h1>Articles</h1>
 
         <div className="container">
-          {Articles.map((article, index) => (
+          {articles.map((article, index) => (
             <h2 key={index} onClick={() => setContent(article.content)}>{article.title}</h2>
-            
           ))}
           {content && (
             <div className="article-content">
