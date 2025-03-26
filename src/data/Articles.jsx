@@ -1,28 +1,18 @@
 const articles = [
     {
       id: 1,
-      title: 'Article 1',
-      content: 'Content 1',
+      title: 'Cosa fare quando ci si sente soli?',
+      content: 'La solitudine, si sa, può essere una brutta bestia. Sia che si stia da soli per scelta che per mancanza, cronica o momentanea, di compagnia. Tuttavia bisogna evitare di drammatizzare la situazione, reagire è fondamentale, specie per evitare di isolarsi ancora di più. Ecco perché dovremmo seguire questi 10 consigli utili per non sentirsi soli. #1 Tenersi impegnati. La solitudine ci lascia molti spazi liberi da poter utilizzare per fare quello che ci piace. Spazio quindi ad ogni tipo di interesse, hobby, impegno di qualsiasi genere. Cercate di imparare a stare bene con voi stessi. Ma attenzione a non esagerare, l’iperattivismo evita la solitudine solo in apparenza. #2 Il lavoro è importante. Senza diventarne dipendenti, una buona valvola di sfogo può essere il lavoro. Concentrarsi sulla propria attività può diventare doppiamente utile. Da una parte ci porta a tenere la mente impegnata, scacciando qualsiasi remora o pensiero negativo sul nostro status solitario ma al tempo stesso ci consente di dedicarci al lavoro, come si suol dire, anima e cuore, aumentando così le possibilità di successo, di una eventuale promozione o scatto lavorativo.',
     },
     {
       id: 2,
-      title: 'Article 2',
-      content: 'Content 2',
+      title: 'Perché è importante bere molta acqua?',
+      content: 'Che l’acqua sia fondamentale per la salute del nostro organismo è cosa nota. Non è così scontato, però, sapere quali sono i benefici che l’acqua dà al nostro corpo. L’acqua, infatti: lubrifica le articolazioni e i muscoli. Circa il 70-75% dei muscoli è costituito da acqua, che permette loro di svolgere le proprie attività motorie. In particolare, alcuni studi effettuati su sportivi professionisti dimostrano come il livello di idratazione sia direttamente proporzionale alla performance stessa; previene la secchezza orale. La saliva è composta per il 98% di acqua, e svolge un ruolo fondamentale nella deglutizione e lubrificazione della cavità orale. La “bocca secca” può causare difficoltà nella deglutizione dei cibi, può influire nell’articolazione delle parole e aumentare il rischio di carie. Se ci si idrata adeguatamente si può amalgamare meglio il cibo e quindi facilitare la deglutizione; migliora la salute della pelle. Bere tanta acqua consente di mantenere i tessuti della pelle più elastici e dà un aspetto più tonico e luminoso. Col tempo, però, l’elasticità viene meno: bevendo un giusto quantitativo di acqua, si può ridurre la comparsa di queste problematiche; regola la temperatura corporea. L’acqua è in grado di regolare la temperatura del nostro corpo: se fa troppo caldo, evapora, raffreddando il corpo ed evitando che si surriscaldi. La disidratazione aumenta l’accumulo di calore e le persone non riescono quindi a tollerare lo stress termico; fa bene alla vista. Essendo l’occhio composto da tessuti come la cornea e il vitreo, fatti per più del 90% di acqua, bere permette (anche) di mantenere sano l’occhio;',
     },
     {
       id: 3,
-      title: 'Article 3',
-      content: 'Content 3',
-    },
-    {
-      id: 4,
-      title: 'Article 4',
-      content: 'Content 4',
-    },
-    {
-      id: 5,
-      title: 'Article 5',
-      content: 'Content 5',
+      title: 'È vero che il cioccolato fondente fa bene?',
+      content: 'Grazie alle sostanze contenute nel cacao, il cioccolato fondente ha proprietà afrodisiache e stimolanti e contiene antiossidanti che riducono gli effetti dello stress ossidativo. Per beneficiare delle proprietà del cioccolato fondente bisognerebbe consumare preferibilmente un prodotto che contenga almeno il 70% di pasta di cacao. Cioccolato fondente i benefici per il cuore. Grazie ad alcune sostanze contenute nel cacao, come i flavonoidi e i polifenoli, il cioccolato fondente ha proprietà cardioprotettive; queste sostanza, infatti, aiutano le arterie a mantenersi flessibili e in salute, avendo un effetto antipertensivo. Inoltre, grazie alla presenza di teobromina, il cioccolato fondente agisce sulla muscolatura del cuore con effetti cardiostimolanti.',
     },
   ];
 
